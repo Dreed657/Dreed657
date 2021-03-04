@@ -8,8 +8,6 @@ I am a Full-Stack Developer motivated by curiosity to learn the next things abou
 
 ## Skills
 - ### Generic
-  - OOP
-  - Solid
   - Visual Studio / Code
   - ReSharper
   - T-SQL
@@ -20,7 +18,7 @@ I am a Full-Stack Developer motivated by curiosity to learn the next things abou
 - ### Back-End
   - ASP.NET
   - EF CORE
-  - 
+  - SignalR
   
 - ### Front-End
   - HTML5
@@ -31,12 +29,14 @@ I am a Full-Stack Developer motivated by curiosity to learn the next things abou
   - JQuery
 
 ## 🌱 I’m currently learning ...
-  - Vim
-  - Linux administration
   - React
   - Redux
   - ngRx
   - rxjs
+  - Vim
+  - Linux administration
+  - Basic DevOps
+  
 
 ## 📫 How to reach me: ...
 [Twitter](https://twitter.com/Dree657) <br>
