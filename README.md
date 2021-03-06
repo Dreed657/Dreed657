@@ -7,26 +7,21 @@
 I am a Full-Stack Developer motivated by curiosity to learn the next things about the technology world! Also well-versed in numerous programming technologies including C#, ASP.NET Core, EF Core, SignalR, JavaScript, Angular, Jquery, AJAX, JSON. An enthusiastic team member with a can-do attitude, time management skills, and a strong user focus. I am looking forward to improving my old skills and acquiring new ones. 
 
 ## Skills
-- ### Generic
-  - Visual Studio / Code
-  - ReSharper
-  - T-SQL
-  - SQL Server Management Studio
-  - NodeJs
-  - Yarn
-  
-- ### Back-End
   - ASP.NET
   - EF CORE
   - SignalR
-  
-- ### Front-End
   - HTML5
   - CSS3
   - Angular
   - Bootstrap
   - FontAwesome
   - JQuery
+  - Visual Studio / Code
+  - ReSharper
+  - T-SQL
+  - SQL Server Management Studio
+  - NodeJs
+  - Yarn
 
 ## 🌱 I’m currently learning ...
   - React
