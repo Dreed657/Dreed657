@@ -9,6 +9,7 @@ I am a Full-Stack Developer motivated by curiosity to learn the next things abou
 ## Skills
   - ASP.NET
   - EF CORE
+  - SQL Server / Mongodb
   - SignalR
   - HTML5
   - CSS3
