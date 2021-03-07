@@ -26,8 +26,7 @@ I am a Full-Stack Developer motivated by curiosity to learn the next things abou
 
 ## 🌱 I’m currently learning ...
   - React
-  - Redux
-  - ngRx
+  - Redux / ngRx
   - rxjs
   - Vim
   - Linux administration
