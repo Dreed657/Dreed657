@@ -2,10 +2,10 @@
 ### Hi there 👋
 
 <p align="center">
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=Dreed657)
+  <img src="https://github-readme-stats.vercel.app/api?username=Dreed657" alt="tracker">
 </p>
 <p align="center">
-  ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=dreed657)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreed657" alt="streak">
 </p>
 
 ## 🧠 About me
