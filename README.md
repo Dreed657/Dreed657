@@ -17,11 +17,11 @@
 <hr>
 
 ## 🧠 About me
-I am a Software Developer motivated by curiosity to learn the next things about the technology world! Also well-versed in numerous programming technologies. An enthusiastic team member with a can-do attitude, time management skills, and a strong user focus. I am looking forward to improving my old skills and acquiring new ones. 
+I am a Software Developer motivated by curiosity to learn the next things about the technology world! Also well-versed in numerous programming technologies. An enthusiastic team member with a can-do attitude, time management skills, and a strong user focus. I am looking forward to improving my old skills and acquiring new ones.
 
+<!-- 
 ## 🧰 Toolbox
 <p align="center">
-
 <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg' height="35px" alt="Visual Studio">
 <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg' height="35px" alt="C#">
 <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-original.svg' height="35px" alt=".NET">
@@ -58,8 +58,8 @@ I am a Software Developer motivated by curiosity to learn the next things about 
 <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vim/vim-original.svg' height="35px" alt="Vim">
 <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/wordpress/wordpress-original.svg' height="35px" alt="Wordpress">
 <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/woocommerce/woocommerce-original-wordmark.svg' height="35px" alt="Woocommerce">
-
-</p>
+</p> 
+-->
 
 ## 📫 How to reach me: ...
 [Twitter](https://twitter.com/Dree657) <br>
