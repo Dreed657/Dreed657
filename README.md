@@ -7,11 +7,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dreed657&show_icons=true&line_height=20&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreed657&layout=compact&line_height=20&hide=html,css,tsql,asp">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dreed657&show_icons=true">
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreed657">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreed657&layout=compact&hide=html,css,tsql,asp">
 </p>
 
 <hr>
